@@ -1,0 +1,2 @@
+serviceClass: com.csjohnstone.testai.client.GreetingService
+path: AE97AB1776F9735CCE8FAC458E533A9D.gwt.rpc
